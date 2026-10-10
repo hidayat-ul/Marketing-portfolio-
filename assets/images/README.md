@@ -1,0 +1,1 @@
+The current site mockups and campaign illustrations are drawn with HTML and CSS. Add optimized image assets here if the agency supplies approved photography or project imagery; give each image explicit dimensions and descriptive alternative text when adding it to a page.
